@@ -7,7 +7,7 @@ This is a responsive webpage built as part of my learning journey with NxtWave, 
 
 - Responsive layout using Bootstrap grid system
 - Styled text and buttons
-- Image integration (if used)
+- Image integration 
 - Custom styling with CSS
 
 ## 🛠️ Technologies Used
